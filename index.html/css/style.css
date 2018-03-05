@@ -1,0 +1,19 @@
+h1, h2{
+    font-family: 'Oswald', sans-serif;
+    color: yellow;
+}
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+    }
+body{
+    background-color: #D3D3D3;
+}
+.image1{
+    width:30%;
+}
+.image2{
+    width:15%;
+}
+.image3{
+    width:15%;
+}
